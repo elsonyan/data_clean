@@ -1,0 +1,13 @@
+string_2_null:
+  data_type: string
+null_2_string:
+  data_type: string
+upper_string:
+  data_type: string
+Rule1:
+  - string_2_null
+  - upper_string
+Rule2:
+  - Null_2_String
+int_suffix:
+    data_type: int
